@@ -290,6 +290,15 @@ body {
     }
 
     
+    @media screen and (min-width: 67.5em) {
 
+        .projetos-art {
+            width: 15%;
+        }
+
+        .img-p {
+            max-width: 100%;
+        }
+    }
 
 }
